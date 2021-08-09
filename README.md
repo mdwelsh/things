@@ -5,5 +5,5 @@ This repostory contains designs for various things I build, including lasercut a
 For more details, check out:
 
 * https://www.mdw.la/
-* https://www.teamsidney.com/
+* https://teamsidney.com/
 
